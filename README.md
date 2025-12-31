@@ -67,16 +67,15 @@ exit           # Return to mode selection
 - **Location**: Eindhoven, Netherlands
 - **LinkedIn**: [tushar-shingrani-6b1084244](https://www.linkedin.com/in/tushar-shingrani-6b1084244)
 
-## Technologies Used
+## Technologies Used for this website
 
 - HTML5, CSS3, JavaScript (ES6+)
 - Font Awesome Icons
 - AOS (Animate On Scroll)
-- EmailJS for contact form
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source.
 
 ---
 
